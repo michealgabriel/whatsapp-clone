@@ -35,7 +35,7 @@ function Chat({ messages }) {
           <Avatar />
 
           <div className='chat__headerInfo'>
-            <h3>Contact Name</h3>
+            <h3>WhatsApp Bot</h3>
             <p>Last seen at...</p>
           </div>
 

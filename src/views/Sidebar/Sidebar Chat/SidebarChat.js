@@ -7,8 +7,8 @@ function SidebarChat() {
     <div className='sidebarChat'>
         <Avatar />
         <div className='sidebarChat__info'>
-            <h2>Contact Name</h2>
-            <p>This was the last message sent...</p>
+            <h2>WhatsApp Bot</h2>
+            <p>Type a message and press enter...</p>
         </div>
     </div>
   )
